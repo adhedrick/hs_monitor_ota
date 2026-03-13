@@ -1,4 +1,4 @@
 {
-  "version": "1.0.19",
+  "version": "1.2.0",
   "firmware": "https://raw.githubusercontent.com/adhedrick/hs_monitor_ota/main/firmware/hs_monitor_project.bin"
 }
